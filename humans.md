@@ -27,7 +27,7 @@
 * 
 * 
 * 
-* 
+* Griffith S Rees - github: [@griff-rees](https://github.com/griffrees)
 * 
 * 
 * 
