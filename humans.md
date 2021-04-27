@@ -9,6 +9,8 @@
 
 ### Participants
 
+* Sam Adams
+* James Thompson
 * Stelian Curceac 
 * Anna Zanchetta - github: [@ciupava](https://github.com/ciupava)
 * Jim Maas
@@ -20,19 +22,8 @@
 * Man Luo 
 * Beth Nichols
 * Fernando Benitez | mbenitezp
-* 
-* 
-* 
 * Hadrien Salat
-* 
-* 
-* 
-* 
 * Griffith S Rees - github: [@griff-rees](https://github.com/griffrees)
-* 
-* 
-* 
-* 
 
 ## Facilitators
 
