@@ -9,6 +9,7 @@
 
 ### Participants
 
+* Jim Maas
 * Odín Morón García
 * Arielle Bennett
 * Harriet McCann
