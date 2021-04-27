@@ -9,6 +9,7 @@
 
 ### Participants
 
+* Stelian Curceac 
 * Anna Zanchetta - github: [@ciupava](https://github.com/ciupava)
 * Jim Maas
 * Odín Morón García
