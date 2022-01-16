@@ -57,6 +57,7 @@
 * Kamal - github: [@kamalfartiyal84](https://github.com/kamalfartiyal84/)
 * Divya Venkatesh - github: [@delfinut](https://github.com/delfinut/)
 * Florian - github: [@wcc19940308](https://github.com/wcc19940308/)
+* Florian101 - github: [@wcc19940308](https://github.com/wcc19940308/)
 
 ## Mozilla Science Lab Fellows
 
